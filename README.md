@@ -47,7 +47,8 @@ This repository showcases a project where I applied my **Power BI expertise** to
 ## Contact 📬  
 Feel free to reach out if you have questions or want to discuss this project further:<br>  
 - **Email**: [the.niks11@gmail.com](mailto:the.niks11@gmail.com)<br>  
-- **LinkedIn**: [Nikhil Dubey](https://linkedin.com/in/nikhil-dubey)<br>  
+- **LinkedIn**: [Nikhil Dubey](www.linkedin.com/in/nikhil-dubeyviz)
+- <br>  
 
 ---
 
