@@ -1,6 +1,6 @@
 Power BI Data Visualization and Analysis Project 🚀
 
-Overview 📊
+Overview 📊 <br> 
 This repository showcases a project where I applied my Power BI expertise to analyze and visualize key client data, focusing on delivering actionable insights and effective solutions. The project involved a job simulation exercise designed to strengthen my skills in data visualization, client communication, and analytical problem-solving.
 
 Features 🌟 <br>
